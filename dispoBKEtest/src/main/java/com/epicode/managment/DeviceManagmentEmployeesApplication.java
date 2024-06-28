@@ -1,13 +1,13 @@
-package tizianosanseverino.dispoBKEtest;
+package com.epicode.managment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DispoBkEtestApplication {
+public class DeviceManagmentEmployeesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DispoBkEtestApplication.class, args);
+		SpringApplication.run(DeviceManagmentEmployeesApplication.class, args);
 	}
 
 }
